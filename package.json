@@ -1,0 +1,19 @@
+{
+  "name": "pom-version-parser",
+  "version": "1.0.0",
+  "description": "Simple script to extract the version from a pom.xml file",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanwalls/pom-version-parser.git"
+  },
+  "author": "@ryanwalls",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryanwalls/pom-version-parser/issues"
+  },
+  "homepage": "https://github.com/ryanwalls/pom-version-parser#readme",
+  "dependencies": {
+    "pom-parser": "^1.1.1"
+  }
+}
